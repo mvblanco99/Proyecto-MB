@@ -1,0 +1,38 @@
+/*Moviles en horizontal en a
+=============================================================*/
+@media screen and (min-width:480px){
+   
+    .header-principal a{
+        font-size: 1.2em;
+    }
+
+    .link_portfolio{
+        display: inline;
+    }
+
+    .footer{
+        display: none;
+    }
+}
+   
+/*Moviles en horizontal o tablets en vertical
+=========================================================*/
+@media screen and (min-width:767px){
+    
+    .header-principal a{
+        font-size: 1.5em;
+    }
+
+    .link_portfolio{
+        display: inline;
+    }
+
+    .footer{
+        display: none;
+    }
+}
+
+ 
+
+
+
